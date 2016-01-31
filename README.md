@@ -1,0 +1,2 @@
+# Learning-Full-Stack-Web-Development
+This project is part of a Full Stack Web Development specialization, In this project i have used some interesting tools, some ones like "Yeoman", "Grunt", "NPM", "Bower" and others. Until this part of the project i have used two frameworks "Bootstrap" and "AngularJS". If you want to download this project to learn a little big you will need to read the README file, in this file you are going to find the instruction to download the tools that you will need.
